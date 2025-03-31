@@ -1,0 +1,7 @@
+C:\Users\dewik\source\repos\HDKioskAPI\obj\Debug\net8.0\HDKioskAPI.csproj.AssemblyReference.cache
+C:\Users\dewik\source\repos\HDKioskAPI\obj\Debug\net8.0\HDKioskAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewik\source\repos\HDKioskAPI\obj\Debug\net8.0\HDKioskAPI.AssemblyInfoInputs.cache
+C:\Users\dewik\source\repos\HDKioskAPI\obj\Debug\net8.0\HDKioskAPI.AssemblyInfo.cs
+C:\Users\dewik\source\repos\HDKioskAPI\obj\Debug\net8.0\HDKioskAPI.csproj.CoreCompileInputs.cache
+C:\Users\dewik\source\repos\HDKioskAPI\obj\Debug\net8.0\HDKioskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dewik\source\repos\HDKioskAPI\obj\Debug\net8.0\HDKioskAPI.MvcApplicationPartsAssemblyInfo.cache
